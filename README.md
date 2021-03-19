@@ -8,7 +8,7 @@
 </a>
 
 --
-[![Trophy](https://github-profile-trophy.vercel.app/?username=mfmfuyu)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=sansuke05)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **sansuke05/sansuke05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
