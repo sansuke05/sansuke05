@@ -12,9 +12,8 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="190" align="left" src="https://github-readme-stats.vercel.app/api?username=sansuke05&count_private=true&include_all_commits=true&show_icons=true" />
     </a>
-
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansuke05&layout=compact&hide=html&langs_count=9" />
+        <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoyashiroKohaku&layout=compact&hide=html&langs_count=9" />
     </a>
 </div>
 
